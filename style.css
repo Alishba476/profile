@@ -1,0 +1,301 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+.bg{
+	position:absolute;
+	background:pink;
+	background-image:url('yu.png');
+	background-repeat:no-repeat;
+	height:550px;
+	width:70%;
+	left:500px;
+	}
+	.nav-bar{
+		
+		position:relative;
+		width:100%;
+		height:100px;
+		
+	}
+	.logo img{
+		position:relative;
+		top:20px;
+		left:10px;
+		
+	
+	}
+	.nav-bar ul{
+		postion:relative;
+		float:right;
+		
+	}
+	.nav-bar ul li{
+		position:relative;
+		list-style:none;
+		display:inline-block;
+		padding:10px;
+		left:-300px;
+		top:-20px;
+		font-size:20px;
+		font-weight:bold;
+		
+		
+	}
+	.btn{
+		position:relative;
+		width:12%;
+		height:35px;
+		
+        left:1150px;
+		top:-15px;
+		border-radius:40px;
+		background:linear-gradient(to right, pink, purple);
+		text-align:center;
+		color:white;
+		padding-top:15px;
+		}
+		.btn:hover{
+			background:linear-gradient(to left, pink, purple);
+		}
+		.hero-text h1{
+			position:relative;
+		    font-size:20px;
+			top:70px;
+			left:70px;
+		}
+		.hero-text h2{
+			position:relative;
+			font-family: 'Roboto', sans-serif;
+
+			top:100px;
+			left:60px;
+			font-size:60px;
+			color:purple;
+			word-spacing:5px;
+		}
+		.hero-text p{
+			position:relative;
+			top:120px;
+			left:60px;
+			line-height:20px;
+		}
+		 .btn1{
+			 position:relative;
+			 width:12%;
+			 height:50px;
+			 
+			 top:200px;
+			 left:70px;
+			 background:linear-gradient(to right, pink, purple);
+			 border-radius:30px;
+		 }
+		  .btn2{
+			 position:relative;
+			 width:12%;
+			 height:50px;
+			 border:1px solid black;
+			 top:200px;
+			 left:80px;
+			 background:white;
+			 border-radius:30px;
+		 }
+		 .btn1:hover{
+			 background:linear-gradient(to left, pink, purple);
+		 }
+		 .btn2:hover{
+			 background:linear-gradient(to left, pink, purple);
+		 }
+		 .img{
+			 position:relative;
+			 width:40%;
+			 height:100px;
+			 left:500px;
+			 top:-150px;
+		 }
+		 .box{
+			 position:relative;
+			 border:transparent;
+			 background:white;
+			 width:20%;
+			 height:400px;
+			 top:400px;
+		     left:50px;
+			 pdding:1px;
+		     }
+			 .box:hover{
+				 border:1px solid purple;
+			 }
+			 .box h1{
+				 position:relative;
+				 font-size:50px;
+				 text-align:center;
+				 top:20px;
+				 color:purple;
+				 font-weight:bold;
+			 }
+			 .box p{
+				 position:relative;
+				 font-size:11px;
+				 top:40px;
+				 text-align:center;
+				 line-height:20px;
+			 }
+			 .btn3{
+				 position:relative;
+				 width:40%;
+				 height:40px;
+				 border:1px solid black;
+				 top:100px;
+				 left:70px;
+				 background:linear-gradient(to right, pink, purple);
+				 border-radius:20px;
+			 }
+			 
+		 
+		     .box1{
+			 position:relative;
+			 border:transparent;
+			 background:white;
+			 width:20%;
+			 height:400px;
+			 top:-2px;
+		     left:350px;
+			 pdding:1px;
+		     }
+			  .box1:hover{
+				 border:1px solid purple;
+			 }
+			
+			 .box1 h2{
+				 position:relative;
+				 text-align:center;
+				 top:100px;
+				 font-size:30px;
+				 font-weight:bold;
+				 color:purple;
+				 
+			 }
+			 .box1 p{
+				 position:relative;
+				 top:150px;
+				 left:30px;
+				 font-size:13px;
+				 line-height:17px;
+			    }
+				.box1 i{
+					position:relative;
+					font-size:50px;
+					top:30px;
+					left:80px;
+					width:20%;
+					height:50px;
+					background:transparent;
+					padding:20px;
+					border-radius:50px;
+					color:white;
+				}
+			     .box1:hover i{
+					 background:purple;
+				 }
+				.box3{
+			 position:relative;
+			 border:transparent;
+			 background:white;
+			 width:20%;
+			 height:400px;
+			 top:-404px;
+		     left:650px;
+			 pdding:1px;
+		     }
+			 .box3:hover{
+				 border:1px solid purple;
+			 }
+			 
+		        .box3 h3{
+				 position:relative;
+				 text-align:center;
+				 top:100px;
+				 font-size:30px;
+				 font-weight:bold;
+				 color:purple;
+				 
+			 }
+			     
+			 
+			 .box3 p{
+				 position:relative;
+				 top:150px;
+				 left:30px;
+				 font-size:13px;
+				 line-height:17px;
+			    }
+				.box3 i{
+					position:relative;
+					font-size:50px;
+					top:30px;
+					left:80px;
+					width:20%;
+					height:50px;
+					background:transparent;
+					color:white;
+					padding:20px;
+					border-radius:50px;
+					color:white;
+				    }
+			    .box3:hover i{
+					 background:purple;
+				 }
+				
+				
+		        .box4{
+			     position:relative;
+			     border:transparent;
+			     background:white;
+			   
+     			 width:20%;
+			     height:400px;
+			 	 top:-808px;
+		         left:950px;
+			     pdding:1px;
+		        }
+				.box4:hover{
+					border:1px solid purple;
+				}
+				.box4 i{
+			     position:relative;
+			     font-size:50px;
+				 top:30px;
+				 left:80px;
+				 width:20%;
+				 height:50px;
+				background:transparent;
+				 padding:20px;
+				 border-radius:50px;
+				 color:white;
+				}
+				.box4:hover i{
+					background:purple;
+				}
+				
+			    
+			 
+		        .box4 h4{
+				 position:relative;
+				 text-align:center;
+				 top:100px;
+				 font-size:30px;
+				 font-weight:bold;
+				 color:purple;
+				 
+			    }
+				.box4 p{
+				 position:relative;
+				 top:150px;
+				 left:30px;
+				 font-size:13px;
+				 line-height:17px;
+			    }
+				
+		         
